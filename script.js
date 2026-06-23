@@ -79,7 +79,7 @@ const educationBadges = [
 // --- Experience Carousel Data ---
 const experienceData = [
     { // Index 0
-        role: "TRAINER / LECTURER", class: "Educator", faction: "Polytechnic Institute", years: "3",
+        role: "TRAINING OFFICER", class: "Educator", faction: "Polytechnic Institute", years: "3",
         imgSrc: "./Assets/Images/trainer.gif", imgStaticSrc: "./Assets/Images/trainer.png",
         stats: [ { name: "TEACHING", value: "6/7", bars: 6 }, { name: "KNOWLEDGE", value: "5/7", bars: 5 }, { name: "MENTORING", value: "6/7", bars: 6 } ],
         trait: { name: "Mind Sculptor", description: "Shapes young minds with technical expertise and practical wisdom in construction education." }
@@ -91,15 +91,15 @@ const experienceData = [
         trait: { name: "Code Weaver", description: "Bridges design and functionality with elegant solutions and efficient architecture." }
     },
     { // Index 2
-        role: "PRE-REG ENGINEER", class: "Civil Engineer", faction: "Government Works", years: "4",
+        role: "PRE-REG ENGINEER SITE", class: "Civil Engineer", faction: "Government Works", years: "2",
         imgSrc: "./Assets/Images/pre reg.gif", imgStaticSrc: "./Assets/Images/pre-reg.png",
         stats: [ { name: "STRUCTURE", value: "6/7", bars: 6 }, { name: "DRAFTING", value: "5/7", bars: 5 }, { name: "COLLAB SKILL", value: "5/7", bars: 5 } ],
         trait: { name: "Foundation Builder", description: "Lays down the base for major public works with precision and grit." }
     },
     { // Index 3 - Combined QE/QS
-        role: "QUALITY ENGINEER/QUANTITY SURVEYOR", class: "Project Specialist", faction: "Construction Groups", years: "1",
+        role: "PRE-REG ENGINEER SITE CONSULTANCY", class: "Project Specialist", faction: "Government Works", years: "2",
         imgSrc: "./Assets/Images/qs.gif", imgStaticSrc: "./Assets/Images/qs.png",
-        stats: [ { name: "QUALITY ASSURANCE", value: "6/7", bars: 6 }, { name: "COST CONTROL", value: "6/7", bars: 6 }, { name: "CONTRACT MGMT", value: "5/7", bars: 5 } ],
+        stats: [ { name: "QUALITY ASSURANCE", value: "6/7", bars: 6 }, { name: "BUILDING AND CIVIL DESIGN", value: "6/7", bars: 6 }, { name: "CONTRACT MGMT", value: "5/7", bars: 5 } ],
         trait: { name: "Value Guardian", description: "Ensures project integrity and financial viability through meticulous oversight and analysis." }
     }
 ];
