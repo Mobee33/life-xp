@@ -97,7 +97,7 @@ const experienceData = [
         trait: { name: "Foundation Builder", description: "Lays down the base for major public works with precision and grit." }
     },
     { // Index 3 - Combined QE/QS
-        role: "PRE-REG ENGINEER SITE CONSULTANCY", class: "Project Specialist", faction: "Government Works", years: "2",
+        role: "PRE-REG ENGINEER CONSULTANCY", class: "Project Specialist", faction: "Government Works", years: "2",
         imgSrc: "./Assets/Images/qs.gif", imgStaticSrc: "./Assets/Images/qs.png",
         stats: [ { name: "QUALITY ASSURANCE", value: "6/7", bars: 6 }, { name: "BUILDING AND CIVIL DESIGN", value: "6/7", bars: 6 }, { name: "CONTRACT MGMT", value: "5/7", bars: 5 } ],
         trait: { name: "Value Guardian", description: "Ensures project integrity and financial viability through meticulous oversight and analysis." }
